@@ -52,6 +52,7 @@ def Formatear_T_h():
                 if all(col in df.columns for col in columnas_originales_T_h) and "Temperatura" in nombre_original_T_h and "Horaria" in nombre_original_T_h:
                     # Formateo de los datos de la temperatura horaria
                     df_T_h = df.copy()
+                    df_T_h['Hora'] = pd.to_numeric(df_T_h['Hora'], errors='coerce').fillna(-9).astype(int)
                     df_T_h['Hora'] = df_T_h['Hora'].apply(lambda x: f"{x:04d}" if x != 2400 else '0000')
                     df_T_h['Fecha'] = pd.to_datetime(df_T_h['Fecha'], format='%d/%m/%Y', errors='coerce')
                     df_T_h.loc[df_T_h['Hora'] == '0000', 'Fecha'] += pd.to_timedelta(1, unit='d')
