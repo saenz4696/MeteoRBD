@@ -1,0 +1,2 @@
+Elemento,Fecha,Valor_Original,Valor_reemplazo,Limite,Procedimiento_adoptado,Comentario
+Temp.degC.avg.1h.s1,2005-07-10 12:00:00,29.1,29.1,Mayor_a_28.65,dato_sospechoso,

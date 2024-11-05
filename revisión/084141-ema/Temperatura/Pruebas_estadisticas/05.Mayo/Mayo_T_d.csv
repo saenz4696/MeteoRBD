@@ -1,0 +1,4 @@
+Elemento,Fecha,Fecha_Especifica,Valor_Original,Valor_reemplazo,Limite,Procedimiento_adoptado,Comentario
+Temp.degC.max.dm.s1,2008-05-30 07:00:00,2008-05-30 06:54:00,21.19,21.19,Menor_a_21.27,dato_sospechoso,
+Temp.degC.min.dm.s1,2013-05-08 07:00:00,2013-05-08 02:49:00,14.45,14.45,Menor_a_14.63,dato_sospechoso,
+Temp.degC.min.dm.s1,2002-05-14 07:00:00,2002-05-14 05:18:00,20.7,20.7,Mayor_a_20.59,dato_sospechoso,

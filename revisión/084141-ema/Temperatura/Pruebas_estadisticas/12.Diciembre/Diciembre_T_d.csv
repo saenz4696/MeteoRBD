@@ -1,0 +1,7 @@
+Elemento,Fecha,Fecha_Especifica,Valor_Original,Valor_reemplazo,Limite,Procedimiento_adoptado,Comentario
+Temp.degC.max.dm.s1,2010-12-15 07:00:00,2010-12-14 11:45:00,16.43,16.43,Menor_a_17.98,dato_validado,Tendencia_normal
+Temp.degC.max.dm.s1,2017-12-12 07:00:00,2017-12-11 14:11:00,17.5,17.5,Menor_a_17.98,dato_validado,Tendencia_normal
+Temp.degC.max.dm.s1,2017-12-13 07:00:00,2017-12-12 13:42:00,17.9,17.9,Menor_a_17.98,dato_validado,Tendencia_normal
+Temp.degC.max.dm.s1,2017-12-14 07:00:00,2017-12-13 13:22:00,17.8,17.8,Menor_a_17.98,dato_validado,Tendencia_normal
+Temp.degC.max.dm.s1,1995-12-12 07:00:00,1995-12-11 07:31:00,40,NA,Mayor_a_39.44,dato_eliminado,dato_anómalo
+Temp.degC.min.dm.s1,1995-12-13 07:00:00,1995-12-13 05:40:00,-5,NA,Menor_a_-4.12,dato_eliminado,dato_anómalo

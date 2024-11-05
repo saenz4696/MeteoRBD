@@ -1,0 +1,6 @@
+Elemento,Fecha,Valor_Original,Valor_reemplazo,Limite,Procedimiento_adoptado,Comentario
+Temp.degC.avg.1h.s1,2010-12-14 03:00:00,13.43,13.43,Menor_a_13.52,dato_sospechoso,
+Temp.degC.avg.1h.s1,2010-12-14 06:00:00,12.96,12.96,Menor_a_13.52,dato_sospechoso,
+Temp.degC.avg.1h.s1,2010-12-14 07:00:00,13.05,13.05,Menor_a_13.52,dato_sospechoso,
+Temp.degC.avg.1h.s1,2015-12-02 13:00:00,28.2,28.2,Mayor_a_27.44,dato_sospechoso,
+Temp.degC.avg.1h.s1,2015-12-02 14:00:00,28.0,28.0,Mayor_a_27.44,dato_sospechoso,

@@ -1,0 +1,45 @@
+
+Estación: 084141 - Variable: Temp.degC.avg.1h.s1
+Mes          Máximo   Mínimo   Media aritmética  Desviación estándar
+Enero        41.00    13.62    19.07             2.05             
+Febrero      29.67    12.67    19.25             2.27             
+Marzo        29.87    13.89    19.82             2.52             
+Abril        29.54    15.25    20.65             2.44             
+Mayo         28.90    15.08    20.97             2.25             
+Junio        29.00    15.94    20.87             2.22             
+Julio        29.10    15.41    20.66             2.00             
+Agosto       28.88    15.48    20.72             2.16             
+Septiembre   28.32    15.40    20.60             2.35             
+Octubre      28.80    14.90    20.29             2.21             
+Noviembre    27.30    12.89    19.91             1.99             
+Diciembre    28.20    12.96    19.48             1.99             
+
+Estación: 084141 - Variable: Temp.degC.max.dm.s1
+Mes          Máximo   Mínimo   Media aritmética  Desviación estándar
+Enero        29.10    17.90    23.04             1.64             
+Febrero      31.26    18.69    23.53             1.78             
+Marzo        32.64    17.47    24.51             2.03             
+Abril        31.90    19.64    25.65             1.93             
+Mayo         30.57    21.19    26.20             1.64             
+Junio        31.24    21.61    26.16             1.59             
+Julio        31.32    19.93    25.29             1.66             
+Agosto       30.61    19.86    25.79             1.57             
+Septiembre   31.02    20.31    26.35             1.42             
+Octubre      29.80    18.90    25.53             1.70             
+Noviembre    30.26    17.25    24.21             1.90             
+Diciembre    40.00    16.43    23.34             1.79             
+
+Estación: 084141 - Variable: Temp.degC.min.dm.s1
+Mes          Máximo   Mínimo   Media aritmética  Desviación estándar
+Enero        19.20    13.19    16.34             1.08             
+Febrero      19.47    12.43    16.36             1.07             
+Marzo        20.00    12.98    16.70             1.11             
+Abril        20.45    14.60    17.56             1.01             
+Mayo         20.70    14.45    18.18             0.89             
+Junio        20.75    15.39    18.07             0.85             
+Julio        20.83    15.01    18.02             0.85             
+Agosto       20.10    14.89    17.91             0.82             
+Septiembre   19.70    14.90    17.64             0.78             
+Octubre      20.10    14.16    17.52             0.80             
+Noviembre    19.76    12.48    17.28             0.95             
+Diciembre    19.93    -5.00    16.79             1.39             

@@ -1,0 +1,2 @@
+Elemento,Fecha,Valor_Original,Valor_reemplazo,Limite,Procedimiento_adoptado,Comentario
+Temp.degC.avg.1h.s1,2012-01-12 17:00:00,41,NA,Mayor_a_39.52,dato_eliminado,dato_anómalo

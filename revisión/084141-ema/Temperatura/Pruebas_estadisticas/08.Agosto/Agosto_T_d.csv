@@ -1,0 +1,10 @@
+Elemento,Fecha,Fecha_Especifica,Valor_Original,Valor_reemplazo,Limite,Procedimiento_adoptado,Comentario
+Temp.degC.max.dm.s1,2009-08-11 07:00:00,2009-08-10 13:37:00,20.95,20.95,Menor_a_21.08,dato_sospechoso,
+Temp.degC.max.dm.s1,2012-08-16 07:00:00,2012-08-16 06:21:00,19.86,19.86,Menor_a_21.08,dato_sospechoso,
+Temp.degC.max.dm.s1,2019-08-29 07:00:00,2019-08-28 20:02:00,20.9,20.9,Menor_a_21.08,dato_sospechoso,
+Temp.degC.max.dm.s1,2011-08-08 07:00:00,2011-08-07 13:56:00,30.61,30.61,Mayor_a_30.50,dato_sospechoso,
+Temp.degC.max.dm.s1,2011-08-27 07:00:00,2011-08-26 10:44:00,30.61,30.61,Mayor_a_30.50,dato_sospechoso,
+Temp.degC.min.dm.s1,1996-08-17 07:00:00,1996-08-17 04:58:00,14.89,14.89,Menor_a_15.45,dato_sospechoso,
+Temp.degC.min.dm.s1,1996-08-29 07:00:00,1996-08-29 04:22:00,14.92,14.92,Menor_a_15.45,dato_sospechoso,
+Temp.degC.min.dm.s1,2007-08-28 07:00:00,2007-08-28 05:12:00,15.13,15.13,Menor_a_15.45,dato_sospechoso,
+Temp.degC.min.dm.s1,2018-08-03 07:00:00,2018-08-03 03:51:00,15.3,15.3,Menor_a_15.45,dato_sospechoso,

@@ -1,0 +1,3 @@
+TIMESTAMP,Test_deteccion,Repeticiones,Fecha_reemplazo
+1995-10-17 07:00:00,timestamp_repetido,2,fecha_sustituida
+1995-10-27 07:00:00,fila_repetida,2,fecha_eliminada
