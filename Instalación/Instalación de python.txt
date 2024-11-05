@@ -1,0 +1,33 @@
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Instituto Meteorológico Nacional - Departamento de procesamiento de datos y red meteorológica  - Jose Alberto Saenz Delgado
+
+Guía de instalación python y ejecutable MeteoRBD.
+
+Consultas: jsaenz@imn.ac.cr
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Siga los siguientes pasos para una instalación rapida, sencilla y efectiva de Python y los modulos necesarios para poder utilizar MeteoRBD.
+
+1- Instalar en el disco local C:\ la última versión de Python (Preferiblemente 3.12).
+
+2- Este equipo -> Propiedades -> Configuración avanzada del sistema -> Variables de entorno -> Variables del sistema -> Path -> Editar 
+   -> Nuevo: C:\Users\{nombre del usuario}\AppData\Local\Programs\Python\Python312, Nuevo: C:\Users\{nombre del usuario}\AppData\Local\Programs\Python\Python312\Scripts
+
+3- Verificar la instalación correcta de Python en símbolo del sistema utilizando el comando: python --version (Si esto no funciona, reinicie la computadora y vuelva a verificar que Python se haya instalado correctamente).
+
+4- Abrir símbolo del sistema -> Instalar el archivo get-pip.py utilizando: python get-pip.py (Descarga: https://bootstrap.pypa.io/get-pip.py y guardar en C:\Users\{nombre del usuario})
+
+5- Verificar la instalación correcta del comando pip en el símbolo del sistema utilizando: pip --version
+
+6- Instalar los siguientes módulos como: pip install pandas ->  pip install numpy -> pip install seaborn -> pip install spyder -> pip install openpyxl
+   -> pip install distfit -> pip install spyder
+
+7- Ya se puede utilizar el programa solo abriendo el ejecutable MeteoRBD.pyw.
+
+Nota: Spyder se encuentra en la dirección: C:\Users\{nombre del usuario}\AppData\Local\Programs\Python\Python312\Scripts
+Spyder se actualiza utilizando el comando: pip install --upgrade spyder en el símbolo del sistema.
+Python se actualiza descargando de la pagina oficial el archivo ejectubale .exe e instalandolo.
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
